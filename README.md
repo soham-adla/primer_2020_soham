@@ -3,6 +3,8 @@
 primer_2020 is a prime number library. It provides functions
 for generating primes and factorization.
 
+foo
+
 ## Installation
 
 ```
