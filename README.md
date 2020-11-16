@@ -3,9 +3,9 @@
 primer_2020 is a prime number library. It provides functions
 for generating primes and factorization.
 
-foo
-
 ## Installation
+
+It's not on PyPI so far. Please install it directly from Github:
 
 ```
 $ git clone https://github.com/MartinThoma/primer_2020.git
